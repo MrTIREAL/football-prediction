@@ -12,8 +12,8 @@ This application, developed using Python and PyQt6, is designed to analyze footb
 # Install
 1. Install Python 12
 2. Select the project folder in the terminal and run the following:
-   - **"pip install virtualenv"**
-   - **"virtualenv venv"**
-   - **"venv\Scripts\activate"**
-   - **"pip install -r requirements.txt"**
-   - **"py main.py"**
+   - **pip install virtualenv**
+   - **virtualenv venv**
+   - **venv\Scripts\activate**
+   - **pip install -r requirements.txt**
+   - **py main.py**
