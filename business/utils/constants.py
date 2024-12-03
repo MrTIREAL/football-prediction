@@ -27,13 +27,3 @@ ANALYSIS_MODE_PREFIX = {
     "Utolsó 5": "avg_5",
     "Utolsó 10": "avg_10"
 }
-
-LEAGUE_URL = {
-    "Premier League": "englandm.php",
-    "Serie A": "italym.php"
-}
-
-LANGUAGE = {
-    'HU': './business/utils/hu.json',
-    'EN': './business/utils/en.json'
-}
