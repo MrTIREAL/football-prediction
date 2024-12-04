@@ -55,7 +55,7 @@ class MainWindow(QMainWindow):
         analysis_menu.addAction(self.analysisResultAction)
 
         # Toto menu
-        toto_menu = QMenu("Toto", self)
+        toto_menu = QMenu("Totó", self)
         menuBar.addMenu(toto_menu)
         toto_menu.addAction(self.totoGameAction)
         toto_menu.addAction(self.totoResultAction)
@@ -72,7 +72,7 @@ class MainWindow(QMainWindow):
         # Analysis menu
         self.analysisMatchday = QAction("&Napi elemzés", self)
         self.analysisSinglePredictAction = QAction("&Egyszeri elemzés", self)
-        self.analysisResultAction = QAction("&Elemzések eredménye", self)
+        self.analysisResultAction = QAction("&Elemzés eredmények", self)
 
         # Toto menu
         self.totoGameAction = QAction("&Játék", self)
